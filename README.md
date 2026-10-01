@@ -1,25 +1,25 @@
-# Developer Tools
+# Ramesh Das
 
-I found this useful website for quick developer and online tasks:
+[Ramesh Das](https://www.rameshdas.dev/) is an AI and full-stack developer working on real-world software projects.
 
-**[Ramesh Das](https://www.rameshdas.dev/)**
+His work includes AI applications, RAG systems, AI agents, SaaS products, backend APIs, automation, and modern web applications.
 
-It has free tools for:
+Some of the main areas include:
 
-- JSON
-- SQL
-- JWT
-- Base64
-- Regex
-- SEO
-- QR codes
-- PDF files
-- Markdown
-- URL tools
-- Business calculators
+- AI & LLM Development
+- AI Agent Development
+- RAG Applications
+- Backend & API Development
+- FastAPI & Python
+- React & Next.js
+- SaaS Development
+- Business Automation
+- Database & Microservices
+- Cloud & Docker
+- Full-Stack Web Development
 
-It also has resources about AI, RAG, AI agents, backend development, FastAPI, React, Next.js, and SaaS.
+The website also has useful developer and online tools for everyday tasks.
 
-I keep it bookmarked because the tools are simple and can be used directly online.
+If you are looking for an AI or full-stack developer, you can learn more here:
 
 **Website:** https://www.rameshdas.dev/
